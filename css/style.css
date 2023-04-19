@@ -1,0 +1,16 @@
+.ara1{
+	background-image:url("../image/notebook-natural-laptop-macbook.jpg");
+	height:100vh;
+	background-size:cover;
+}
+h1{
+	color:red;
+	text-transform:capitalize;
+}
+.v1{
+	text-align:center;
+	font-weight:bold;
+	    font-size: 28px;
+    color: aqua;
+	    padding-top: 249px;
+}
